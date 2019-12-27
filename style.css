@@ -1,0 +1,28 @@
+.a {
+  border-style: solid groove groove solid;
+  border-width: 1px;
+}
+
+.b {
+  border-style: groove groove groove solid;
+  border-width: 1px;
+}
+
+.c {
+  border-style: groove groove solid solid;
+  border-width: 1px;
+}
+
+.d {
+  border-style: groove groove solid solid;
+  border-width: 1px;
+}
+
+.e {
+  border-style: groove groove solid solid;
+  border-width: 1px;
+}
+button {
+  font-size: 30px;
+  color: orange;
+}
